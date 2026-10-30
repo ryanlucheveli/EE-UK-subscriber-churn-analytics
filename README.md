@@ -23,3 +23,15 @@ SELECT
     TotalCharges AS TotalBill_GBP,
     Churn AS ChurnStatus
 FROM `wa_fn-usec_-telco-customer-churn`;
+---
+
+## 💡 Strategic Recommendations for EE Management
+
+1. **Incentivize Long-Term Contracts:** 
+   * Offer a 10% discount or free speed upgrade for subscribers who switch from month-to-month to 12-month or 24-month fixed contracts to mitigate the 42.71% churn rate.
+
+2. **Target High-Risk New Onboarding (0–12 Months):** 
+   * Implement automated check-ins and exclusive loyalty perks at Months 3, 6, and 9 to reduce the steep 47.68% early drop-off.
+
+3. **Investigate Fiber Optic Service Issues:** 
+   * Conduct technical performance audits and customer feedback surveys specifically for Fiber Optic users to address the disproportionate 41.89% attrition rate.
